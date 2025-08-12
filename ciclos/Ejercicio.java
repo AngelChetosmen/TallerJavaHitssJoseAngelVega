@@ -21,6 +21,6 @@ public class Ejercicio {
             resultado = -resultado;
         }
         System.out.println("El resultado de: " + num1 + " x " + num2 + " es " + resultado);
+        entrada.close();
     }
-    
 }
