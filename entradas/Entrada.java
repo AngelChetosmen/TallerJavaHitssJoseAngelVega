@@ -3,7 +3,7 @@ package entradas;
 import java.nio.channels.Pipe.SourceChannel;
 import java.util.Scanner;
 
-import sintaxis.Operadores;
+//import sintaxis.Operadores;
 
 public class Entrada {
     public static void main(String[] args) {
