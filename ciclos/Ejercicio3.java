@@ -20,9 +20,9 @@ public class Ejercicio3 {
                 System.out.println("Error: se ingresó 0 o bien un numero negativo. Programa finalizado.");
                 return; // Salimos del programa si se ingresa 0 o un número negativo    
             }
-            if (nota < 0 || nota > 10) {// Verificamos si la nota está fuera del rango permitido
+            if (nota > 10) {// Verificamos si la nota está fuera del rango permitido
                 System.out.println("Error: la nota debe estar entre 0 y 10. Intente de nuevo.");
-                i--; 
+                i--;// Decrementamos i para repetir la iteración actual 
                 continue;     
             }
             sumaTotal += nota; // Acumulamos la suma total de las notas
