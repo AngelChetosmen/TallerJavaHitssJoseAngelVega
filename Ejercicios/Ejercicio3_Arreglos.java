@@ -28,9 +28,9 @@ public class Ejercicio3_Arreglos {
         System.out.println("Matriz resultante:");
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                System.out.print(matriz[i][j] + " "); // Imprimir cada elemento
+                System.out.print(matriz[i][j] + " ");
             }
-            System.out.println(); // Salto de línea al final de cada fila
+            System.out.println(); 
         }
         entrada.close(); 
     }
