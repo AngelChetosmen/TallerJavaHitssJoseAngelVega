@@ -1,0 +1,5 @@
+Bingo,20,85
+Eloy,22,90
+Angelica,19,70
+Renata,21,95
+Delfino,20,65 

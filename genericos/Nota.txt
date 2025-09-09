@@ -1,0 +1,3 @@
+Nota.- Este es un documento de referencia para que ambas carpetas 
+llaamdas "genericos" no se junten y confundan el paquete que tienen 
+los arhivos .java que hay dentro.  

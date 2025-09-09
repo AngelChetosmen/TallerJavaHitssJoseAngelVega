@@ -2,8 +2,6 @@ package src.clases;
 
 import java.util.ArrayList;
 import java.util.List;
-import src.clases.Cuenta;
-import src.clases.Transaccion;
 public class SistemaBancario {
     
     private List<Cuenta> cuentas; //List<Cuenta> se utiliza para almacenar una colección de objetos de la clase Cuenta.
