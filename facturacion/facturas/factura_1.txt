@@ -1,0 +1,1 @@
+Factura {id = 1, cliente = Cliente {id = 123, nombre = Juan}, productos = [Producto {id = 1, descripcion = Coca-Cola', precio = 1.5}, Producto {id = 2, descripcion = Pepsi', precio = 1.5}, Producto {id = 3, descripcion = Sprite', precio = 1.5}]}
