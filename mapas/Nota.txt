@@ -1,0 +1,1 @@
+Nota: Esta nota es generada solamente para no unir las carpetas de mapas y de impl (config de redhat en vscode)
