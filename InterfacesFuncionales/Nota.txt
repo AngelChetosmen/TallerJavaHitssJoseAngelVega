@@ -1,0 +1,1 @@
+Esta es solo una nota para separa las carpetas de test e InterfacesFuncionales (configuraciones de RedHat en vscode)
