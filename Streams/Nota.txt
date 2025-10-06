@@ -1,1 +1,0 @@
-Esta es solo una nota para separa las carpetas de Streams y flujos (configuraciones de RedHat en vscode)
